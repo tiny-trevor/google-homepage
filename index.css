@@ -2,6 +2,7 @@ html, body {
     font-family: arial;
     font-size: small;
     margin: 0;
+    height: 100%;
 }
 
 a, a:visited {
